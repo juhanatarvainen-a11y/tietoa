@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+{% block title %}Tietoa – Erakkomaja{% endblock %}
+{% block content %}
+  <h2>Tietoa</h2>
+  <p>Tervetuloa Evankeliseen erakkomajaan, jossa voit hengähtää ja hiljentyä Raamatun sanan ja rukouksen äärellä.
+Tämä sivu on syntynyt omasta tarpeestani hoitaa arjen rukouselämää Jumalan sanalla, rukouksella ja Katekismus -mietiskelyllä. Sivun voi tietysti hyödyntää tietysti myös yhdessä toisten kristittyjen kanssa.
+
+
+  </p>
+
+  <h3>Hetkipalvelukset</h3>
+  <p>Liturginen hetkipalvelus on ollut käytössä jo ensimmäisillä kristillisillä vuosisadoilla. Kristityt kokoontuivat aamuisin ja iltaisin, joskus myös päivällä ja yöllä yhteiseen rukoukseen. Näissä luettiin pyhiä kirjoituksia ja laulettiin psalmeja.
+
+Hetkipalvelus on kuin pieni jumalanpalvelus. Kristityt voivat niin yksin kuin yhdessä käyttää niitä yhteisen ja yksityisen rukouselämän runkona ja sisältönä.</p>
+  </ul>
+
+{% endblock %}
